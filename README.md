@@ -1,9 +1,10 @@
 
-<h1 align="center">Hey there 👋, I'm Christian Arzu</h1>
+<h1 align="center">Hey 👋, I'm Christian Arzu</h1>
 I like to learn about new stuff related to technology, not specific to a particular field. Whether it’s Linux, networking, virtualization, containerization, cloud services, web design, programming - you name it; if it’s something I can use in real life, I’m down for learning and applying it.
 
 <br>
-- 📝 You can find my blog at [linkarzu.com](linkarzu.com)
+
+- You can find my blog at [linkarzu.com](linkarzu.com)
 
 <br>
 
