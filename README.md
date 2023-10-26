@@ -1,10 +1,10 @@
 
-<h1 align="center">Christian Arzu here 👋</h1>
-<h3 align="center">I like to learn about new stuff related to technology, not specific to a particular field. Whether it’s Linux, networking, virtualization, containerization, cloud services, web design, programming - you name it; if it’s something I can use in real life, I’m down for learning and applying it.</h3>
+<h1 align="center">Hey there 👋, I'm Christian Arzu</h1>
+I like to learn about new stuff related to technology, not specific to a particular field. Whether it’s Linux, networking, virtualization, containerization, cloud services, web design, programming - you name it; if it’s something I can use in real life, I’m down for learning and applying it.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linkarzu&label=Profile%20views&color=0e75b6&style=flat" alt="linkarzu" /> </p>
 
-- 📝 I regularly write articles on [linkarzu.com](linkarzu.com)
+- 📝 You can find my blog at [linkarzu.com](linkarzu.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
