@@ -16,7 +16,7 @@ I like to learn about new stuff related to technology, not specific to a particu
 ---
 
 <h3 align="left">Licenses and certifications:</h3>
-<p align="left"> <a href="https://www.credly.com/badges/a9c1fa3e-2ae6-46ff-97b1-5e42325c2d01" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png" alt="aws" width="40" height="40"/> </a> <a href="https://www.credly.com/badges/855e9005-bf2a-460c-9295-5427f9b4c526" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png" alt="azure" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.credly.com/users/chrisjosuearzu/badges" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/svg/331358/credly" alt="credly" width="40" height="40"/> </a> 
 
 ---
 
