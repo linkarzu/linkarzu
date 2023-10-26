@@ -1,6 +1,7 @@
 
 <h1 align="center">Hey 👋, I'm Christian Arzu</h1>
 I like to learn about new stuff related to technology, not specific to a particular field. Whether it’s Linux, networking, virtualization, containerization, cloud services, web design, programming - you name it; if it’s something I can use in real life, I’m down for learning and applying it.
+
 - You can find my blog at [linkarzu.com](linkarzu.com)
 
 ---
@@ -9,7 +10,7 @@ I like to learn about new stuff related to technology, not specific to a particu
 <p align="left">
 <a href="https://linkedin.com/in/christianarzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christianarzu" height="30" width="40" /></a>
 <a href="https://twitter.com/link_arzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="link_arzu" height="30" width="40" /></a>
-<a href="/https://linkarzu.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://linkarzu.com/feed.xml" height="30" width="40" /></a>
+<a href="https://linkarzu.com/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://linkarzu.com/feed.xml" height="30" width="40" /></a>
 </p>
 
 ---
