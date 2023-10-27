@@ -6,7 +6,7 @@ I like to learn about new stuff related to technology, not specific to a particu
 
 <h3 align="left">My personal blog:</h3>
 <p align="left">
-<a href="https://linkarzu.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/478487/blog.svg" alt="linkarzu blog" height="30" width="40" /></a>
+<a href="https://linkarzu.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/343850/blog-seo-optimization-search.svg" alt="linkarzu blog" height="30" width="40" /></a>
 
 ---
 
