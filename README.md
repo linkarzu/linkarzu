@@ -2,7 +2,11 @@
 <h1 align="center">Hey 👋, I'm Christian Arzu</h1>
 I like to learn about new stuff related to technology, not specific to a particular field. Whether it’s Linux, networking, virtualization, containerization, cloud services, web design, programming - you name it; if it’s something I can use in real life, I’m down for learning and applying it.
 
-- You can find my blog at [linkarzu.com](linkarzu.com)
+---
+
+<h3 align="left">My personal blog:</h3>
+<p align="left">
+<a href="https://linkarzu.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/478487/blog.svg" alt="linkarzu blog" height="30" width="40" /></a>
 
 ---
 
