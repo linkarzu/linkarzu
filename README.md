@@ -19,7 +19,7 @@ I like to learn about new stuff related to technology, not specific to a particu
 
 ---
 
-<h3 align="left">Licenses and certifications:</h3>
+<h3 align="left">My certifications can be found in my credly profile:</h3>
 <p align="left"> <a href="https://www.credly.com/users/chrisjosuearzu/badges" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331358/credly.svg" alt="credly" width="40" height="40"/> </a> 
 
 ---
