@@ -105,7 +105,7 @@ I like to learn about new stuff related to technology, not specific to a particu
    <img src="https://vates.tech/blog/content/images/size/w1600/2022/12/png-XOA-fulllogoandbaseline-white.png" alt="Xen Orchestra" width="45" height="45"/>
    </a>
    <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer">
-   <img src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" alt="zabbix" width="55" height="55"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" alt="zabbix" width="50" height="50"/>
    </a>
    <a href="https://www.logicmonitor.com/" target="_blank" rel="noreferrer">
    <img src="https://www.vectorlogo.zone/logos/logicmonitor/logicmonitor-icon.svg" alt="logicmonitor" width="40" height="40"/>
