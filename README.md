@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm linkarzu</h1>
+<h1 align="left">Hey, I'm linkarzu</h1>
 
 - I like to learn about new stuff related to technology, not specific to a
   particular field.
@@ -9,7 +9,7 @@
 
 ---
 
-<h2 align="left">My YouTube Channel</h2>
+<h1 align="left">My YouTube Channel</h1>
 
 - Some of my videos:
   - [Primeagen's tmux-sessionizer and tmux-sshonizer-agen](https://youtu.be/MCbEPylDEWU)
@@ -27,7 +27,7 @@
 
 ---
 
-<h2 align="left">My personal blog:</h2>
+<h1 align="left">My personal blog:</h1>
 
 - Click on the image below
 
