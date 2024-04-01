@@ -16,7 +16,7 @@
   - [Install Windows 11 over network netboot.xyz unattend.xml](https://youtu.be/25uqeRAG39A)
   - [09 - Transparent terminal with yabai in macOS](https://youtu.be/IRL-ueXXnWM)
   - [07 - Configure Karabiner-Elements in macOS](https://youtu.be/Cr35bp8yAzo)
-- Click on the image below if you want to to
+- Click on the image below to go
   [to my channel](https://www.youtube.com/@linkarzu)
 
 <div align="center">
