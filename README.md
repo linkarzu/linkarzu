@@ -7,8 +7,6 @@
 - I have a YouTube channel and I post videos of things that I find interesting
   and that I think can help others
 
----
-
 <h1 align="left">Some of my YouTube videos</h1>
 
 <h3 align="left">My complete Neovim markdown setup and workflow in 2024</h3>
@@ -55,8 +53,6 @@
     </a>
 </div>
 
----
-
 <h1 align="left">My personal blog:</h1>
 
 - Click on the image below
@@ -70,8 +66,6 @@
       />
    </a>
 </div>
-
----
 
 <h2 align="left">My certifications:</h2>
 
@@ -89,9 +83,7 @@
    </a>
 </p>
 
----
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
    <a
       href="https://linkedin.com/in/christianarzu"
@@ -122,9 +114,7 @@
       /> </a>
 </p>
 
----
-
-<h3 align="left">Languages</h3>
+<h2 align="left">Languages</h2>
 <p align="left">
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
    <img
@@ -160,7 +150,8 @@
    </a>
 </p>
 <br>
-<h3 align="left">Databases</h3>
+
+<h2 align="left">Databases</h2>
 <p align="left">
    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
    <img
@@ -180,7 +171,8 @@
    </a>
 </p>
 <br>
-<h3 align="left">Frontend</h3>
+
+<h2 align="left">Frontend</h2>
 <p align="left">
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
    <img
@@ -200,7 +192,8 @@
    </a>
 </p>
 <br>
-<h3 align="left">Other tools</h3>
+
+<h2 align="left">Other tools</h2>
 <p align="left">
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
    <img
