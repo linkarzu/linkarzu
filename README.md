@@ -1,32 +1,58 @@
 <h1 align="left">Hey, I'm linkarzu</h1>
 
-- I like to learn about new stuff related to technology, not specific to a
+- I like to involve myself in stuff related to technology, not specific to a
   particular field.
 - Whether it’s Linux, networking, virtualization, containerization, cloud
   services, web design, programming (you name it)
-- if it’s something I can use in real life, I’m down for learning and applying
-  it.
+- I have a YouTube channel and I post videos of things that I find interesting
+  and that I think can help others
 
 ---
 
-<h1 align="left">My YouTube Channel</h1>
+<h1 align="left">Some of my YouTube videos</h1>
 
-- Some of my videos:
-  - [Primeagen's tmux-sessionizer and tmux-sshonizer-agen](https://youtu.be/MCbEPylDEWU)
-  - [Install Windows 11 over network netboot.xyz unattend.xml](https://youtu.be/25uqeRAG39A)
-  - [09 - Transparent terminal with yabai in macOS](https://youtu.be/IRL-ueXXnWM)
-  - [07 - Configure Karabiner-Elements in macOS](https://youtu.be/Cr35bp8yAzo)
-- Click on the image below to go
-  [to my channel](https://www.youtube.com/@linkarzu)
+<h3 align="left">My complete Neovim markdown setup and workflow in 2024</h3>
+<div align="left">
+    <a href="https://youtu.be/c0cuvzK1SDo">
+        <img
+          src="https://res.cloudinary.com/daqwsgmx6/image/upload/q_75/v1717456413/youtube/neovim/markdown-setup-2024.avif"
+          alt="My complete Neovim markdown setup and workflow in 2024"
+          width="600"
+        />
+    </a>
+</div>
 
-<div align="center">
-   <a href="https://www.youtube.com/@linkarzu">
-   <img
-      src="https://res.cloudinary.com/daqwsgmx6/image/upload/v1708093565/youtube/docker-practical/win11-netbootxyz.png"
-      alt="My YouTube channel"
-      width="600"
-      />
-   </a>
+<h3 align="left">Tired of seeing Catppuccin everywhere? Meet the Eldritch theme</h3>
+<div align="left">
+    <a href="https://youtu.be/wKPaBQ0GaCM">
+        <img
+          src="https://res.cloudinary.com/daqwsgmx6/image/upload/q_75/v1717456413/youtube/neovim/eldritch-theme.avif"
+          alt="Tired of seeing Catppuccin everywhere? Meet the Eldritch theme"
+          width="600"
+        />
+    </a>
+</div>
+
+<h3 align="left">Neovim or Neovide, what is the difference?</h3>
+<div align="left">
+    <a href="https://youtu.be/cY1KSeIkQCs">
+        <img
+          src="https://res.cloudinary.com/daqwsgmx6/image/upload/q_75/v1717456413/youtube/neovim/neovim-vs-neovide.avif"
+          alt="Neovim or Neovide, what is the difference?"
+          width="600"
+        />
+    </a>
+</div>
+
+<h3 align="left">Why I switched from Alacritty to kitty, and how to configure kitty</h3>
+<div align="left">
+    <a href="https://youtu.be/MZNvjclifD8">
+        <img
+          src="https://res.cloudinary.com/daqwsgmx6/image/upload/q_75/v1719362711/youtube/macos/alacritty-to-kitty.avif"
+          alt="Why I switched from Alacritty to kitty, and how to configure kitty"
+          width="600"
+        />
+    </a>
 </div>
 
 ---
@@ -35,7 +61,7 @@
 
 - Click on the image below
 
-<div align="center">
+<div align="left">
    <a href="https://www.linkarzu.com">
    <img
       src="https://res.cloudinary.com/daqwsgmx6/image/upload/v1709316203/blog/my-blog.png"
