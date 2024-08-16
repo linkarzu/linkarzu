@@ -67,23 +67,24 @@
    </a>
 </div>
 
-<h2 align="left">My certifications:</h2>
+<h1 align="left">My certifications:</h1>
 
 - They can be found in my credly profile below
 
 <p align="left">
-   <a
-      href="https://www.credly.com/users/chrisjosuearzu/badges"
-      target="_blank"
-      rel="noreferrer">
-   <img
-      src="https://www.svgrepo.com/show/331358/credly.svg"
-      alt="credly" width="40" height="40"
-      />
-   </a>
+     <a
+        href="https://www.credly.com/users/chrisjosuearzu/badges"
+        target="_blank"
+        rel="noreferrer">
+     <img
+        src="https://www.svgrepo.com/show/331358/credly.svg"
+        alt="credly" width="40" height="40"
+        />
+     </a>
 </p>
+<br>
 
-<h2 align="left">Connect with me:</h2>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
    <a
       href="https://linkedin.com/in/christianarzu"
@@ -113,8 +114,9 @@
       width="40"
       /> </a>
 </p>
+<br>
 
-<h2 align="left">Languages</h2>
+<h1 align="left">Languages</h1>
 <p align="left">
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
    <img
@@ -151,7 +153,7 @@
 </p>
 <br>
 
-<h2 align="left">Databases</h2>
+<h1 align="left">Databases</h1>
 <p align="left">
    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
    <img
@@ -172,7 +174,7 @@
 </p>
 <br>
 
-<h2 align="left">Frontend</h2>
+<h1 align="left">Frontend</h1>
 <p align="left">
    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
    <img
@@ -193,7 +195,7 @@
 </p>
 <br>
 
-<h2 align="left">Other tools</h2>
+<h1 align="left">Other tools</h1>
 <p align="left">
    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
    <img
